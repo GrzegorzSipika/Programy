@@ -1,5 +1,5 @@
 
-KLASA:  
+KLASA: 1 
 
 
 Wiek - 
@@ -8,4 +8,4 @@ Miejsce zamieszkania -
 Wyksztalcenie - 
 Zatrudnienie - 
 
-Ilosc uzyskanych punktow - 
+Iloc uzyskanych punktow - 
