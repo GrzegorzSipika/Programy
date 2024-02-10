@@ -1,0 +1,8 @@
+2024-02-10 22:54:54,642 - INFO - Przetwarzanie folderu z ankiet¹: 3
+2024-02-10 22:54:54,642 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\3\wyniki_ankiety_3
+2024-02-10 22:54:54,643 - INFO - Dodano plik z etykiet¹: Label 3.txt
+2024-02-10 22:54:54,643 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\3\3_a.jpg
+2024-02-10 22:54:54,643 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\3\3_b.jpg
+2024-02-10 22:54:54,798 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\3\3_a.jpg
+2024-02-10 22:54:54,817 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\3\3_b.jpg
+2024-02-10 22:54:54,824 - INFO - Zakoñczono przetwarzanie wszystkich ankiet

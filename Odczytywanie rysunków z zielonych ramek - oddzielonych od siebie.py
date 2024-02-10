@@ -24,7 +24,7 @@ def overlap(x1, y1, w1, h1, x2, y2, w2, h2):
 def clean_frames(image):
     # Konwersja do skali szarości i czyszczenie obrazu mogą być różne w zależności od potrzeb
     grayscale_img = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    _, cleaned_img = cv2.threshold(grayscale_img, 85, 255, cv2.THRESH_BINARY)
+    _, cleaned_img = cv2.threshold(grayscale_img, 85, 255, cv2.THRESH_BINARY )
     return cleaned_img
 
 def find_green_frames(image_path, output_dir, target_frame_count=4, frame_size=(930, 930), suffix=""):
@@ -98,7 +98,7 @@ def process_single_folder(folder_path, survey_folder):
         label_path = os.path.join(survey_folder_path, label_filename)
 
         with open(label_path, 'w') as label_file:
-            label_file.write("\nKLASA:  \n\n\nWiek - \nPłeć - \nMiejsce zamieszkania - \nWykształcenie - \nZatrudnienie - \n\nIlość uzyskanych punktów - ")
+            label_file.write("\nKLASA:  \n\n\nWiek - \nPlec - \nMiejsce zamieszkania - \nWyksztalcenie - \nZatrudnienie - \n\nIlosc uzyskanych punktow - ")
 
         logging.info(f"Dodano plik z etykietą: {label_filename}")
 

@@ -1,0 +1,961 @@
+2024-02-10 23:00:52,175 - INFO - Przetwarzanie folderu z ankiet¹: 1
+2024-02-10 23:00:52,176 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\1\wyniki_ankiety_1
+2024-02-10 23:00:52,176 - INFO - Przetwarzanie folderu z ankiet¹: 10
+2024-02-10 23:00:52,176 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\10\wyniki_ankiety_10
+2024-02-10 23:00:52,176 - INFO - Dodano plik z etykiet¹: Label 1.txt
+2024-02-10 23:00:52,176 - INFO - Przetwarzanie folderu z ankiet¹: 100
+2024-02-10 23:00:52,177 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\100\wyniki_ankiety_100
+2024-02-10 23:00:52,177 - INFO - Dodano plik z etykiet¹: Label 10.txt
+2024-02-10 23:00:52,177 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\1\1_a.jpg
+2024-02-10 23:00:52,177 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\10\10_a.jpg
+2024-02-10 23:00:52,178 - INFO - Dodano plik z etykiet¹: Label 100.txt
+2024-02-10 23:00:52,178 - INFO - Przetwarzanie folderu z ankiet¹: 102
+2024-02-10 23:00:52,178 - INFO - Przetwarzanie folderu z ankiet¹: 101
+2024-02-10 23:00:52,178 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\1\1_b.jpg
+2024-02-10 23:00:52,178 - INFO - Przetwarzanie folderu z ankiet¹: 103
+2024-02-10 23:00:52,178 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\10\10_b.jpg
+2024-02-10 23:00:52,178 - INFO - Przetwarzanie folderu z ankiet¹: 104
+2024-02-10 23:00:52,179 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\100\100_a.jpg
+2024-02-10 23:00:52,179 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\102\wyniki_ankiety_102
+2024-02-10 23:00:52,181 - INFO - Przetwarzanie folderu z ankiet¹: 108
+2024-02-10 23:00:52,179 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\101\wyniki_ankiety_101
+2024-02-10 23:00:52,180 - INFO - Przetwarzanie folderu z ankiet¹: 106
+2024-02-10 23:00:52,180 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\103\wyniki_ankiety_103
+2024-02-10 23:00:52,180 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\104\wyniki_ankiety_104
+2024-02-10 23:00:52,180 - INFO - Przetwarzanie folderu z ankiet¹: 107
+2024-02-10 23:00:52,181 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\100\100_b.jpg
+2024-02-10 23:00:52,179 - INFO - Przetwarzanie folderu z ankiet¹: 105
+2024-02-10 23:00:52,181 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\108\wyniki_ankiety_108
+2024-02-10 23:00:52,181 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\106\wyniki_ankiety_106
+2024-02-10 23:00:52,182 - INFO - Dodano plik z etykiet¹: Label 102.txt
+2024-02-10 23:00:52,183 - INFO - Przetwarzanie folderu z ankiet¹: 11
+2024-02-10 23:00:52,185 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\11\wyniki_ankiety_11
+2024-02-10 23:00:52,186 - INFO - Dodano plik z etykiet¹: Label 106.txt
+2024-02-10 23:00:52,186 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\106\106_a.jpg
+2024-02-10 23:00:52,186 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\106\106_b.jpg
+2024-02-10 23:00:52,183 - INFO - Przetwarzanie folderu z ankiet¹: 110
+2024-02-10 23:00:52,186 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\110\wyniki_ankiety_110
+2024-02-10 23:00:52,183 - INFO - Dodano plik z etykiet¹: Label 103.txt
+2024-02-10 23:00:52,187 - INFO - Dodano plik z etykiet¹: Label 110.txt
+2024-02-10 23:00:52,187 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\110\110_a.jpg
+2024-02-10 23:00:52,187 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\110\110_b.jpg
+2024-02-10 23:00:52,185 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\102\102_a.jpg
+2024-02-10 23:00:52,187 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\102\102_b.jpg
+2024-02-10 23:00:52,185 - INFO - Przetwarzanie folderu z ankiet¹: 113
+2024-02-10 23:00:52,188 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\113\wyniki_ankiety_113
+2024-02-10 23:00:52,188 - INFO - Dodano plik z etykiet¹: Label 113.txt
+2024-02-10 23:00:52,188 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\113\113_a.jpg
+2024-02-10 23:00:52,188 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\113\113_b.jpg
+2024-02-10 23:00:52,185 - INFO - Dodano plik z etykiet¹: Label 108.txt
+2024-02-10 23:00:52,189 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\108\108_a.jpg
+2024-02-10 23:00:52,189 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\108\108_b.jpg
+2024-02-10 23:00:52,186 - INFO - Dodano plik z etykiet¹: Label 11.txt
+2024-02-10 23:00:52,190 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\11\11_a.jpg
+2024-02-10 23:00:52,190 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\11\11_b.jpg
+2024-02-10 23:00:52,187 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\103\103_a.jpg
+2024-02-10 23:00:52,191 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\103\103_b.jpg
+2024-02-10 23:00:52,183 - INFO - Przetwarzanie folderu z ankiet¹: 109
+2024-02-10 23:00:52,214 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\109\wyniki_ankiety_109
+2024-02-10 23:00:52,214 - INFO - Dodano plik z etykiet¹: Label 109.txt
+2024-02-10 23:00:52,215 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\109\109_a.jpg
+2024-02-10 23:00:52,215 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\109\109_b.jpg
+2024-02-10 23:00:52,183 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\107\wyniki_ankiety_107
+2024-02-10 23:00:52,215 - INFO - Dodano plik z etykiet¹: Label 107.txt
+2024-02-10 23:00:52,216 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\107\107_a.jpg
+2024-02-10 23:00:52,216 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\107\107_b.jpg
+2024-02-10 23:00:52,183 - INFO - Dodano plik z etykiet¹: Label 104.txt
+2024-02-10 23:00:52,184 - INFO - Przetwarzanie folderu z ankiet¹: 111
+2024-02-10 23:00:52,184 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\105\wyniki_ankiety_105
+2024-02-10 23:00:52,184 - INFO - Przetwarzanie folderu z ankiet¹: 112
+2024-02-10 23:00:52,183 - INFO - Dodano plik z etykiet¹: Label 101.txt
+2024-02-10 23:00:52,216 - INFO - Przetwarzanie folderu z ankiet¹: 114
+2024-02-10 23:00:52,217 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\104\104_a.jpg
+2024-02-10 23:00:52,217 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\111\wyniki_ankiety_111
+2024-02-10 23:00:52,217 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\112\wyniki_ankiety_112
+2024-02-10 23:00:52,217 - INFO - Dodano plik z etykiet¹: Label 105.txt
+2024-02-10 23:00:52,217 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\101\101_a.jpg
+2024-02-10 23:00:52,217 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\114\wyniki_ankiety_114
+2024-02-10 23:00:52,217 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\104\104_b.jpg
+2024-02-10 23:00:52,218 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\105\105_a.jpg
+2024-02-10 23:00:52,218 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\101\101_b.jpg
+2024-02-10 23:00:52,218 - INFO - Dodano plik z etykiet¹: Label 111.txt
+2024-02-10 23:00:52,218 - INFO - Dodano plik z etykiet¹: Label 112.txt
+2024-02-10 23:00:52,218 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\105\105_b.jpg
+2024-02-10 23:00:52,219 - INFO - Dodano plik z etykiet¹: Label 114.txt
+2024-02-10 23:00:52,219 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\111\111_a.jpg
+2024-02-10 23:00:52,219 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\112\112_a.jpg
+2024-02-10 23:00:52,219 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\111\111_b.jpg
+2024-02-10 23:00:52,219 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\112\112_b.jpg
+2024-02-10 23:00:52,219 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\114\114_a.jpg
+2024-02-10 23:00:52,220 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\114\114_b.jpg
+2024-02-10 23:00:52,519 - INFO - Przetwarzanie folderu z ankiet¹: 115
+2024-02-10 23:00:52,519 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\115\wyniki_ankiety_115
+2024-02-10 23:00:52,520 - INFO - Dodano plik z etykiet¹: Label 115.txt
+2024-02-10 23:00:52,522 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\115\115_a.jpg
+2024-02-10 23:00:52,523 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\115\115_b.jpg
+2024-02-10 23:00:52,603 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\106\106_a.jpg
+2024-02-10 23:00:52,619 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\10\10_a.jpg
+2024-02-10 23:00:52,650 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\1\1_a.jpg
+2024-02-10 23:00:52,667 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\100\100_b.jpg
+2024-02-10 23:00:52,701 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\110\110_a.jpg
+2024-02-10 23:00:52,708 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\10\10_b.jpg
+2024-02-10 23:00:52,715 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:52,719 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\100\100_a.jpg
+2024-02-10 23:00:52,757 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:52,810 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\108\108_a.jpg
+2024-02-10 23:00:52,898 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\110\110_b.jpg
+2024-02-10 23:00:52,905 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:52,932 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\113\113_a.jpg
+2024-02-10 23:00:53,094 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\111\111_a.jpg
+2024-02-10 23:00:53,101 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\104\104_a.jpg
+2024-02-10 23:00:53,116 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\102\102_a.jpg
+2024-02-10 23:00:53,227 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\103\103_a.jpg
+2024-02-10 23:00:53,253 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\106\106_b.jpg
+2024-02-10 23:00:53,261 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,261 - INFO - Przetwarzanie folderu z ankiet¹: 116
+2024-02-10 23:00:53,262 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\116\wyniki_ankiety_116
+2024-02-10 23:00:53,262 - INFO - Dodano plik z etykiet¹: Label 116.txt
+2024-02-10 23:00:53,262 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\116\116_a.jpg
+2024-02-10 23:00:53,262 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\116\116_b.jpg
+2024-02-10 23:00:53,264 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\108\108_b.jpg
+2024-02-10 23:00:53,272 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,274 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\112\112_a.jpg
+2024-02-10 23:00:53,366 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\101\101_a.jpg
+2024-02-10 23:00:53,373 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\102\102_b.jpg
+2024-02-10 23:00:53,382 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,440 - INFO - Przetwarzanie folderu z ankiet¹: 117
+2024-02-10 23:00:53,440 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\117\wyniki_ankiety_117
+2024-02-10 23:00:53,442 - INFO - Dodano plik z etykiet¹: Label 117.txt
+2024-02-10 23:00:53,443 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\117\117_a.jpg
+2024-02-10 23:00:53,443 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\117\117_b.jpg
+2024-02-10 23:00:53,473 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\11\11_a.jpg
+2024-02-10 23:00:53,480 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\11\11_b.jpg
+2024-02-10 23:00:53,488 - INFO - Przetwarzanie folderu z ankiet¹: 118
+2024-02-10 23:00:53,488 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\118\wyniki_ankiety_118
+2024-02-10 23:00:53,488 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,489 - INFO - Dodano plik z etykiet¹: Label 118.txt
+2024-02-10 23:00:53,489 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\118\118_a.jpg
+2024-02-10 23:00:53,489 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\118\118_b.jpg
+2024-02-10 23:00:53,514 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\105\105_a.jpg
+2024-02-10 23:00:53,522 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\107\107_a.jpg
+2024-02-10 23:00:53,531 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\114\114_a.jpg
+2024-02-10 23:00:53,542 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\109\109_a.jpg
+2024-02-10 23:00:53,549 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\105\105_b.jpg
+2024-02-10 23:00:53,555 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,575 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\107\107_b.jpg
+2024-02-10 23:00:53,583 - INFO - Przetwarzanie folderu z ankiet¹: 119
+2024-02-10 23:00:53,584 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,584 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\119\wyniki_ankiety_119
+2024-02-10 23:00:53,585 - INFO - Dodano plik z etykiet¹: Label 119.txt
+2024-02-10 23:00:53,585 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\119\119_a.jpg
+2024-02-10 23:00:53,585 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\119\119_b.jpg
+2024-02-10 23:00:53,676 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\101\101_b.jpg
+2024-02-10 23:00:53,677 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\111\111_b.jpg
+2024-02-10 23:00:53,692 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,692 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,781 - INFO - Przetwarzanie folderu z ankiet¹: 12
+2024-02-10 23:00:53,781 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\12\wyniki_ankiety_12
+2024-02-10 23:00:53,782 - INFO - Dodano plik z etykiet¹: Label 12.txt
+2024-02-10 23:00:53,783 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\12\12_a.jpg
+2024-02-10 23:00:53,783 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\12\12_b.jpg
+2024-02-10 23:00:53,791 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\109\109_b.jpg
+2024-02-10 23:00:53,798 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\113\113_b.jpg
+2024-02-10 23:00:53,799 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,805 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,815 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\1\1_b.jpg
+2024-02-10 23:00:53,853 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,894 - INFO - Przetwarzanie folderu z ankiet¹: 120
+2024-02-10 23:00:53,894 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\120\wyniki_ankiety_120
+2024-02-10 23:00:53,894 - INFO - Dodano plik z etykiet¹: Label 120.txt
+2024-02-10 23:00:53,895 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\120\120_a.jpg
+2024-02-10 23:00:53,895 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\120\120_b.jpg
+2024-02-10 23:00:53,933 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\103\103_b.jpg
+2024-02-10 23:00:53,942 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,965 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\114\114_b.jpg
+2024-02-10 23:00:53,978 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:53,992 - INFO - Przetwarzanie folderu z ankiet¹: 13
+2024-02-10 23:00:53,993 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\13\wyniki_ankiety_13
+2024-02-10 23:00:53,993 - INFO - Dodano plik z etykiet¹: Label 13.txt
+2024-02-10 23:00:53,993 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\13\13_a.jpg
+2024-02-10 23:00:53,994 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\13\13_b.jpg
+2024-02-10 23:00:54,005 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\117\117_a.jpg
+2024-02-10 23:00:54,049 - INFO - Przetwarzanie folderu z ankiet¹: 14
+2024-02-10 23:00:54,049 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\14\wyniki_ankiety_14
+2024-02-10 23:00:54,050 - INFO - Dodano plik z etykiet¹: Label 14.txt
+2024-02-10 23:00:54,050 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\14\14_a.jpg
+2024-02-10 23:00:54,050 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\14\14_b.jpg
+2024-02-10 23:00:54,063 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\118\118_a.jpg
+2024-02-10 23:00:54,134 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\119\119_a.jpg
+2024-02-10 23:00:54,160 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\115\115_a.jpg
+2024-02-10 23:00:54,169 - INFO - Przetwarzanie folderu z ankiet¹: 15
+2024-02-10 23:00:54,169 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\15\wyniki_ankiety_15
+2024-02-10 23:00:54,170 - INFO - Dodano plik z etykiet¹: Label 15.txt
+2024-02-10 23:00:54,170 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\15\15_a.jpg
+2024-02-10 23:00:54,170 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\15\15_b.jpg
+2024-02-10 23:00:54,195 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\119\119_b.jpg
+2024-02-10 23:00:54,201 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,233 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\112\112_b.jpg
+2024-02-10 23:00:54,239 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,239 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\115\115_b.jpg
+2024-02-10 23:00:54,246 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,247 - INFO - Przetwarzanie folderu z ankiet¹: 16
+2024-02-10 23:00:54,247 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\16\wyniki_ankiety_16
+2024-02-10 23:00:54,249 - INFO - Dodano plik z etykiet¹: Label 16.txt
+2024-02-10 23:00:54,249 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\16\16_a.jpg
+2024-02-10 23:00:54,250 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\16\16_b.jpg
+2024-02-10 23:00:54,270 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\104\104_b.jpg
+2024-02-10 23:00:54,311 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,323 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\117\117_b.jpg
+2024-02-10 23:00:54,334 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,336 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\118\118_b.jpg
+2024-02-10 23:00:54,398 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\116\116_a.jpg
+2024-02-10 23:00:54,404 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,407 - INFO - Przetwarzanie folderu z ankiet¹: 17
+2024-02-10 23:00:54,408 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\17\wyniki_ankiety_17
+2024-02-10 23:00:54,408 - INFO - Dodano plik z etykiet¹: Label 17.txt
+2024-02-10 23:00:54,409 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\17\17_a.jpg
+2024-02-10 23:00:54,409 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\17\17_b.jpg
+2024-02-10 23:00:54,479 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\116\116_b.jpg
+2024-02-10 23:00:54,490 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,516 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\120\120_a.jpg
+2024-02-10 23:00:54,525 - INFO - Przetwarzanie folderu z ankiet¹: 18
+2024-02-10 23:00:54,526 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\18\wyniki_ankiety_18
+2024-02-10 23:00:54,526 - INFO - Dodano plik z etykiet¹: Label 18.txt
+2024-02-10 23:00:54,527 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\18\18_a.jpg
+2024-02-10 23:00:54,527 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\18\18_b.jpg
+2024-02-10 23:00:54,565 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\14\14_a.jpg
+2024-02-10 23:00:54,617 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\120\120_b.jpg
+2024-02-10 23:00:54,626 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,626 - INFO - Przetwarzanie folderu z ankiet¹: 19
+2024-02-10 23:00:54,626 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\19\wyniki_ankiety_19
+2024-02-10 23:00:54,626 - INFO - Dodano plik z etykiet¹: Label 19.txt
+2024-02-10 23:00:54,627 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\19\19_a.jpg
+2024-02-10 23:00:54,627 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\19\19_b.jpg
+2024-02-10 23:00:54,650 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\12\12_b.jpg
+2024-02-10 23:00:54,686 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\13\13_b.jpg
+2024-02-10 23:00:54,695 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\12\12_a.jpg
+2024-02-10 23:00:54,703 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,704 - INFO - Przetwarzanie folderu z ankiet¹: 2
+2024-02-10 23:00:54,704 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\2\wyniki_ankiety_2
+2024-02-10 23:00:54,704 - INFO - Dodano plik z etykiet¹: Label 2.txt
+2024-02-10 23:00:54,705 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\2\2_a.jpg
+2024-02-10 23:00:54,705 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\2\2_b.jpg
+2024-02-10 23:00:54,719 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\14\14_b.jpg
+2024-02-10 23:00:54,726 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,748 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\13\13_a.jpg
+2024-02-10 23:00:54,756 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,757 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\15\15_b.jpg
+2024-02-10 23:00:54,815 - INFO - Przetwarzanie folderu z ankiet¹: 20
+2024-02-10 23:00:54,815 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\20\wyniki_ankiety_20
+2024-02-10 23:00:54,815 - INFO - Dodano plik z etykiet¹: Label 20.txt
+2024-02-10 23:00:54,815 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\20\20_a.jpg
+2024-02-10 23:00:54,815 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\20\20_b.jpg
+2024-02-10 23:00:54,827 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\15\15_a.jpg
+2024-02-10 23:00:54,835 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:54,860 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\16\16_a.jpg
+2024-02-10 23:00:54,885 - INFO - Przetwarzanie folderu z ankiet¹: 21
+2024-02-10 23:00:54,885 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\21\wyniki_ankiety_21
+2024-02-10 23:00:54,886 - INFO - Dodano plik z etykiet¹: Label 21.txt
+2024-02-10 23:00:54,886 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\21\21_a.jpg
+2024-02-10 23:00:54,886 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\21\21_b.jpg
+2024-02-10 23:00:54,949 - INFO - Przetwarzanie folderu z ankiet¹: 22
+2024-02-10 23:00:54,949 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\22\wyniki_ankiety_22
+2024-02-10 23:00:54,949 - INFO - Dodano plik z etykiet¹: Label 22.txt
+2024-02-10 23:00:54,950 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\22\22_a.jpg
+2024-02-10 23:00:54,950 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\22\22_b.jpg
+2024-02-10 23:00:54,979 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\16\16_b.jpg
+2024-02-10 23:00:54,986 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,013 - INFO - Przetwarzanie folderu z ankiet¹: 23
+2024-02-10 23:00:55,013 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\23\wyniki_ankiety_23
+2024-02-10 23:00:55,013 - INFO - Dodano plik z etykiet¹: Label 23.txt
+2024-02-10 23:00:55,013 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\23\23_a.jpg
+2024-02-10 23:00:55,014 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\23\23_b.jpg
+2024-02-10 23:00:55,076 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\17\17_a.jpg
+2024-02-10 23:00:55,083 - INFO - Przetwarzanie folderu z ankiet¹: 24
+2024-02-10 23:00:55,083 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\24\wyniki_ankiety_24
+2024-02-10 23:00:55,084 - INFO - Dodano plik z etykiet¹: Label 24.txt
+2024-02-10 23:00:55,084 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\24\24_a.jpg
+2024-02-10 23:00:55,084 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\24\24_b.jpg
+2024-02-10 23:00:55,096 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\18\18_a.jpg
+2024-02-10 23:00:55,113 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\17\17_b.jpg
+2024-02-10 23:00:55,122 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,180 - INFO - Przetwarzanie folderu z ankiet¹: 25
+2024-02-10 23:00:55,181 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\25\wyniki_ankiety_25
+2024-02-10 23:00:55,181 - INFO - Dodano plik z etykiet¹: Label 25.txt
+2024-02-10 23:00:55,182 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\25\25_a.jpg
+2024-02-10 23:00:55,182 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\25\25_b.jpg
+2024-02-10 23:00:55,190 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\19\19_a.jpg
+2024-02-10 23:00:55,197 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\2\2_b.jpg
+2024-02-10 23:00:55,209 - INFO - Przetwarzanie folderu z ankiet¹: 26
+2024-02-10 23:00:55,209 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\26\wyniki_ankiety_26
+2024-02-10 23:00:55,210 - INFO - Dodano plik z etykiet¹: Label 26.txt
+2024-02-10 23:00:55,210 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\26\26_a.jpg
+2024-02-10 23:00:55,210 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\26\26_b.jpg
+2024-02-10 23:00:55,216 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\18\18_b.jpg
+2024-02-10 23:00:55,226 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,294 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\2\2_a.jpg
+2024-02-10 23:00:55,301 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,320 - INFO - Przetwarzanie folderu z ankiet¹: 27
+2024-02-10 23:00:55,320 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\27\wyniki_ankiety_27
+2024-02-10 23:00:55,320 - INFO - Dodano plik z etykiet¹: Label 27.txt
+2024-02-10 23:00:55,321 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\27\27_a.jpg
+2024-02-10 23:00:55,321 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\27\27_b.jpg
+2024-02-10 23:00:55,383 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\21\21_a.jpg
+2024-02-10 23:00:55,403 - INFO - Przetwarzanie folderu z ankiet¹: 28
+2024-02-10 23:00:55,403 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\28\wyniki_ankiety_28
+2024-02-10 23:00:55,403 - INFO - Dodano plik z etykiet¹: Label 28.txt
+2024-02-10 23:00:55,404 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\28\28_a.jpg
+2024-02-10 23:00:55,404 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\28\28_b.jpg
+2024-02-10 23:00:55,494 - INFO - Przetwarzanie folderu z ankiet¹: 29
+2024-02-10 23:00:55,494 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\29\wyniki_ankiety_29
+2024-02-10 23:00:55,495 - INFO - Dodano plik z etykiet¹: Label 29.txt
+2024-02-10 23:00:55,495 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\29\29_a.jpg
+2024-02-10 23:00:55,495 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\29\29_b.jpg
+2024-02-10 23:00:55,522 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\22\22_b.jpg
+2024-02-10 23:00:55,555 - INFO - Przetwarzanie folderu z ankiet¹: 3
+2024-02-10 23:00:55,556 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\3\wyniki_ankiety_3
+2024-02-10 23:00:55,584 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\20\20_a.jpg
+2024-02-10 23:00:55,664 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\22\22_a.jpg
+2024-02-10 23:00:55,673 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,702 - INFO - Dodano plik z etykiet¹: Label 3.txt
+2024-02-10 23:00:55,702 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\3\3_a.jpg
+2024-02-10 23:00:55,702 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\3\3_b.jpg
+2024-02-10 23:00:55,760 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\19\19_b.jpg
+2024-02-10 23:00:55,767 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,774 - INFO - Przetwarzanie folderu z ankiet¹: 30
+2024-02-10 23:00:55,774 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\30\wyniki_ankiety_30
+2024-02-10 23:00:55,774 - INFO - Dodano plik z etykiet¹: Label 30.txt
+2024-02-10 23:00:55,774 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\30\30_a.jpg
+2024-02-10 23:00:55,775 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\30\30_b.jpg
+2024-02-10 23:00:55,830 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\24\24_a.jpg
+2024-02-10 23:00:55,850 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\25\25_b.jpg
+2024-02-10 23:00:55,858 - INFO - Przetwarzanie folderu z ankiet¹: 31
+2024-02-10 23:00:55,859 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\31\wyniki_ankiety_31
+2024-02-10 23:00:55,859 - INFO - Dodano plik z etykiet¹: Label 31.txt
+2024-02-10 23:00:55,860 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\31\31_a.jpg
+2024-02-10 23:00:55,860 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\31\31_b.jpg
+2024-02-10 23:00:55,870 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\25\25_a.jpg
+2024-02-10 23:00:55,883 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\21\21_b.jpg
+2024-02-10 23:00:55,910 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,910 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:55,911 - INFO - Przetwarzanie folderu z ankiet¹: 32
+2024-02-10 23:00:55,911 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\32\wyniki_ankiety_32
+2024-02-10 23:00:55,912 - INFO - Dodano plik z etykiet¹: Label 32.txt
+2024-02-10 23:00:55,912 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\32\32_a.jpg
+2024-02-10 23:00:55,912 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\32\32_b.jpg
+2024-02-10 23:00:55,958 - INFO - Przetwarzanie folderu z ankiet¹: 33
+2024-02-10 23:00:55,958 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\33\wyniki_ankiety_33
+2024-02-10 23:00:55,962 - INFO - Dodano plik z etykiet¹: Label 33.txt
+2024-02-10 23:00:55,962 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\33\33_a.jpg
+2024-02-10 23:00:55,962 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\33\33_b.jpg
+2024-02-10 23:00:55,996 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\29\29_a.jpg
+2024-02-10 23:00:56,014 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\20\20_b.jpg
+2024-02-10 23:00:56,021 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,042 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\23\23_a.jpg
+2024-02-10 23:00:56,080 - INFO - Przetwarzanie folderu z ankiet¹: 34
+2024-02-10 23:00:56,080 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\34\wyniki_ankiety_34
+2024-02-10 23:00:56,081 - INFO - Dodano plik z etykiet¹: Label 34.txt
+2024-02-10 23:00:56,081 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\34\34_a.jpg
+2024-02-10 23:00:56,081 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\34\34_b.jpg
+2024-02-10 23:00:56,107 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\24\24_b.jpg
+2024-02-10 23:00:56,131 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\29\29_b.jpg
+2024-02-10 23:00:56,152 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,154 - INFO - Przetwarzanie folderu z ankiet¹: 35
+2024-02-10 23:00:56,154 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\35\wyniki_ankiety_35
+2024-02-10 23:00:56,154 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,160 - INFO - Dodano plik z etykiet¹: Label 35.txt
+2024-02-10 23:00:56,160 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\35\35_a.jpg
+2024-02-10 23:00:56,160 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\35\35_b.jpg
+2024-02-10 23:00:56,180 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\28\28_a.jpg
+2024-02-10 23:00:56,206 - INFO - Przetwarzanie folderu z ankiet¹: 36
+2024-02-10 23:00:56,206 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\36\wyniki_ankiety_36
+2024-02-10 23:00:56,207 - INFO - Dodano plik z etykiet¹: Label 36.txt
+2024-02-10 23:00:56,207 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\36\36_a.jpg
+2024-02-10 23:00:56,207 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\36\36_b.jpg
+2024-02-10 23:00:56,219 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\26\26_a.jpg
+2024-02-10 23:00:56,317 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\3\3_a.jpg
+2024-02-10 23:00:56,380 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\30\30_b.jpg
+2024-02-10 23:00:56,407 - INFO - Przetwarzanie folderu z ankiet¹: 37
+2024-02-10 23:00:56,407 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\37\wyniki_ankiety_37
+2024-02-10 23:00:56,408 - INFO - Dodano plik z etykiet¹: Label 37.txt
+2024-02-10 23:00:56,408 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\37\37_a.jpg
+2024-02-10 23:00:56,409 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\37\37_b.jpg
+2024-02-10 23:00:56,419 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\27\27_a.jpg
+2024-02-10 23:00:56,448 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\27\27_b.jpg
+2024-02-10 23:00:56,487 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,578 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\23\23_b.jpg
+2024-02-10 23:00:56,585 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,586 - INFO - Przetwarzanie folderu z ankiet¹: 38
+2024-02-10 23:00:56,586 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\38\wyniki_ankiety_38
+2024-02-10 23:00:56,587 - INFO - Dodano plik z etykiet¹: Label 38.txt
+2024-02-10 23:00:56,587 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\38\38_a.jpg
+2024-02-10 23:00:56,587 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\38\38_b.jpg
+2024-02-10 23:00:56,597 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\32\32_a.jpg
+2024-02-10 23:00:56,670 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\32\32_b.jpg
+2024-02-10 23:00:56,682 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,706 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\26\26_b.jpg
+2024-02-10 23:00:56,713 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,740 - INFO - Przetwarzanie folderu z ankiet¹: 39
+2024-02-10 23:00:56,740 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\39\wyniki_ankiety_39
+2024-02-10 23:00:56,742 - INFO - Dodano plik z etykiet¹: Label 39.txt
+2024-02-10 23:00:56,742 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\39\39_a.jpg
+2024-02-10 23:00:56,742 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\39\39_b.jpg
+2024-02-10 23:00:56,755 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\35\35_a.jpg
+2024-02-10 23:00:56,766 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\30\30_a.jpg
+2024-02-10 23:00:56,796 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\36\36_a.jpg
+2024-02-10 23:00:56,802 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\28\28_b.jpg
+2024-02-10 23:00:56,842 - INFO - Przetwarzanie folderu z ankiet¹: 4
+2024-02-10 23:00:56,842 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\4\wyniki_ankiety_4
+2024-02-10 23:00:56,842 - INFO - Dodano plik z etykiet¹: Label 4.txt
+2024-02-10 23:00:56,843 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\4\4_a.jpg
+2024-02-10 23:00:56,843 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\4\4_b.jpg
+2024-02-10 23:00:56,843 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,850 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:56,850 - INFO - Przetwarzanie folderu z ankiet¹: 40
+2024-02-10 23:00:56,850 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\40\wyniki_ankiety_40
+2024-02-10 23:00:56,867 - INFO - Dodano plik z etykiet¹: Label 40.txt
+2024-02-10 23:00:56,868 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\40\40_a.jpg
+2024-02-10 23:00:56,868 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\40\40_b.jpg
+2024-02-10 23:00:56,931 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\37\37_a.jpg
+2024-02-10 23:00:56,938 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\34\34_a.jpg
+2024-02-10 23:00:56,969 - INFO - Przetwarzanie folderu z ankiet¹: 41
+2024-02-10 23:00:56,970 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\41\wyniki_ankiety_41
+2024-02-10 23:00:56,970 - INFO - Dodano plik z etykiet¹: Label 41.txt
+2024-02-10 23:00:56,970 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\41\41_a.jpg
+2024-02-10 23:00:56,970 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\41\41_b.jpg
+2024-02-10 23:00:56,993 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\31\31_a.jpg
+2024-02-10 23:00:57,005 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\34\34_b.jpg
+2024-02-10 23:00:57,008 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\3\3_b.jpg
+2024-02-10 23:00:57,026 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\31\31_b.jpg
+2024-02-10 23:00:57,067 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,070 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,071 - INFO - Przetwarzanie folderu z ankiet¹: 42
+2024-02-10 23:00:57,084 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\37\37_b.jpg
+2024-02-10 23:00:57,084 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,085 - INFO - Przetwarzanie folderu z ankiet¹: 43
+2024-02-10 23:00:57,086 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\42\wyniki_ankiety_42
+2024-02-10 23:00:57,107 - INFO - Przetwarzanie folderu z ankiet¹: 44
+2024-02-10 23:00:57,106 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\43\wyniki_ankiety_43
+2024-02-10 23:00:57,106 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,107 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\44\wyniki_ankiety_44
+2024-02-10 23:00:57,107 - INFO - Dodano plik z etykiet¹: Label 42.txt
+2024-02-10 23:00:57,107 - INFO - Dodano plik z etykiet¹: Label 43.txt
+2024-02-10 23:00:57,117 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\42\42_a.jpg
+2024-02-10 23:00:57,117 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\42\42_b.jpg
+2024-02-10 23:00:57,117 - INFO - Dodano plik z etykiet¹: Label 44.txt
+2024-02-10 23:00:57,117 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\43\43_a.jpg
+2024-02-10 23:00:57,118 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\43\43_b.jpg
+2024-02-10 23:00:57,118 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\44\44_a.jpg
+2024-02-10 23:00:57,118 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\44\44_b.jpg
+2024-02-10 23:00:57,139 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\33\33_a.jpg
+2024-02-10 23:00:57,169 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\36\36_b.jpg
+2024-02-10 23:00:57,178 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,192 - INFO - Przetwarzanie folderu z ankiet¹: 45
+2024-02-10 23:00:57,192 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\45\wyniki_ankiety_45
+2024-02-10 23:00:57,192 - INFO - Dodano plik z etykiet¹: Label 45.txt
+2024-02-10 23:00:57,193 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\45\45_a.jpg
+2024-02-10 23:00:57,193 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\45\45_b.jpg
+2024-02-10 23:00:57,227 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\33\33_b.jpg
+2024-02-10 23:00:57,295 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\39\39_a.jpg
+2024-02-10 23:00:57,296 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,303 - INFO - Przetwarzanie folderu z ankiet¹: 46
+2024-02-10 23:00:57,303 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\46\wyniki_ankiety_46
+2024-02-10 23:00:57,304 - INFO - Dodano plik z etykiet¹: Label 46.txt
+2024-02-10 23:00:57,304 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\46\46_a.jpg
+2024-02-10 23:00:57,304 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\46\46_b.jpg
+2024-02-10 23:00:57,341 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\4\4_a.jpg
+2024-02-10 23:00:57,420 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\35\35_b.jpg
+2024-02-10 23:00:57,437 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,443 - INFO - Przetwarzanie folderu z ankiet¹: 47
+2024-02-10 23:00:57,443 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\47\wyniki_ankiety_47
+2024-02-10 23:00:57,444 - INFO - Dodano plik z etykiet¹: Label 47.txt
+2024-02-10 23:00:57,444 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\47\47_a.jpg
+2024-02-10 23:00:57,444 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\47\47_b.jpg
+2024-02-10 23:00:57,448 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\4\4_b.jpg
+2024-02-10 23:00:57,461 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,501 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\38\38_a.jpg
+2024-02-10 23:00:57,547 - INFO - Przetwarzanie folderu z ankiet¹: 48
+2024-02-10 23:00:57,547 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\48\wyniki_ankiety_48
+2024-02-10 23:00:57,547 - INFO - Dodano plik z etykiet¹: Label 48.txt
+2024-02-10 23:00:57,548 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\48\48_a.jpg
+2024-02-10 23:00:57,548 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\48\48_b.jpg
+2024-02-10 23:00:57,596 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\44\44_a.jpg
+2024-02-10 23:00:57,625 - INFO - Przetwarzanie folderu z ankiet¹: 49
+2024-02-10 23:00:57,625 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\49\wyniki_ankiety_49
+2024-02-10 23:00:57,625 - INFO - Dodano plik z etykiet¹: Label 49.txt
+2024-02-10 23:00:57,626 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\49\49_a.jpg
+2024-02-10 23:00:57,626 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\49\49_b.jpg
+2024-02-10 23:00:57,665 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\44\44_b.jpg
+2024-02-10 23:00:57,687 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,688 - INFO - Przetwarzanie folderu z ankiet¹: 5
+2024-02-10 23:00:57,688 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\5\wyniki_ankiety_5
+2024-02-10 23:00:57,689 - INFO - Dodano plik z etykiet¹: Label 5.txt
+2024-02-10 23:00:57,689 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\5\5_a.jpg
+2024-02-10 23:00:57,689 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\5\5_b.jpg
+2024-02-10 23:00:57,712 - INFO - Przetwarzanie folderu z ankiet¹: 50
+2024-02-10 23:00:57,712 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\50\wyniki_ankiety_50
+2024-02-10 23:00:57,713 - INFO - Dodano plik z etykiet¹: Label 50.txt
+2024-02-10 23:00:57,713 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\50\50_a.jpg
+2024-02-10 23:00:57,713 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\50\50_b.jpg
+2024-02-10 23:00:57,770 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\43\43_a.jpg
+2024-02-10 23:00:57,779 - INFO - Przetwarzanie folderu z ankiet¹: 51
+2024-02-10 23:00:57,779 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\51\wyniki_ankiety_51
+2024-02-10 23:00:57,779 - INFO - Dodano plik z etykiet¹: Label 51.txt
+2024-02-10 23:00:57,779 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\51\51_a.jpg
+2024-02-10 23:00:57,779 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\51\51_b.jpg
+2024-02-10 23:00:57,843 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\38\38_b.jpg
+2024-02-10 23:00:57,853 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:57,901 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\46\46_a.jpg
+2024-02-10 23:00:57,914 - INFO - Przetwarzanie folderu z ankiet¹: 52
+2024-02-10 23:00:57,915 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\52\wyniki_ankiety_52
+2024-02-10 23:00:57,915 - INFO - Dodano plik z etykiet¹: Label 52.txt
+2024-02-10 23:00:57,917 - INFO - Przetwarzanie folderu z ankiet¹: 53
+2024-02-10 23:00:57,917 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\53\wyniki_ankiety_53
+2024-02-10 23:00:57,920 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\52\52_a.jpg
+2024-02-10 23:00:57,920 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\52\52_b.jpg
+2024-02-10 23:00:57,923 - INFO - Dodano plik z etykiet¹: Label 53.txt
+2024-02-10 23:00:57,924 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\53\53_a.jpg
+2024-02-10 23:00:57,924 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\53\53_b.jpg
+2024-02-10 23:00:57,938 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\40\40_b.jpg
+2024-02-10 23:00:57,978 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\43\43_b.jpg
+2024-02-10 23:00:57,986 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,029 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\41\41_a.jpg
+2024-02-10 23:00:58,029 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\42\42_a.jpg
+2024-02-10 23:00:58,133 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\39\39_b.jpg
+2024-02-10 23:00:58,168 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\47\47_a.jpg
+2024-02-10 23:00:58,168 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,193 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\41\41_b.jpg
+2024-02-10 23:00:58,200 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\48\48_a.jpg
+2024-02-10 23:00:58,245 - INFO - Przetwarzanie folderu z ankiet¹: 54
+2024-02-10 23:00:58,262 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,265 - INFO - Przetwarzanie folderu z ankiet¹: 55
+2024-02-10 23:00:58,265 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\55\wyniki_ankiety_55
+2024-02-10 23:00:58,263 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\54\wyniki_ankiety_54
+2024-02-10 23:00:58,269 - INFO - Dodano plik z etykiet¹: Label 54.txt
+2024-02-10 23:00:58,269 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\54\54_a.jpg
+2024-02-10 23:00:58,269 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\54\54_b.jpg
+2024-02-10 23:00:58,270 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\40\40_a.jpg
+2024-02-10 23:00:58,279 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,280 - INFO - Dodano plik z etykiet¹: Label 55.txt
+2024-02-10 23:00:58,280 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\55\55_a.jpg
+2024-02-10 23:00:58,280 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\55\55_b.jpg
+2024-02-10 23:00:58,322 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\49\49_b.jpg
+2024-02-10 23:00:58,336 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\48\48_b.jpg
+2024-02-10 23:00:58,337 - INFO - Przetwarzanie folderu z ankiet¹: 56
+2024-02-10 23:00:58,344 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\56\wyniki_ankiety_56
+2024-02-10 23:00:58,345 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,345 - INFO - Dodano plik z etykiet¹: Label 56.txt
+2024-02-10 23:00:58,346 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\56\56_a.jpg
+2024-02-10 23:00:58,346 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\56\56_b.jpg
+2024-02-10 23:00:58,416 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\45\45_b.jpg
+2024-02-10 23:00:58,459 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\53\53_a.jpg
+2024-02-10 23:00:58,501 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\42\42_b.jpg
+2024-02-10 23:00:58,527 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\50\50_b.jpg
+2024-02-10 23:00:58,527 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\52\52_a.jpg
+2024-02-10 23:00:58,561 - INFO - Przetwarzanie folderu z ankiet¹: 58
+2024-02-10 23:00:58,561 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\58\wyniki_ankiety_58
+2024-02-10 23:00:58,562 - INFO - Dodano plik z etykiet¹: Label 58.txt
+2024-02-10 23:00:58,562 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\58\58_a.jpg
+2024-02-10 23:00:58,562 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\58\58_b.jpg
+2024-02-10 23:00:58,562 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,574 - INFO - Przetwarzanie folderu z ankiet¹: 57
+2024-02-10 23:00:58,574 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\57\wyniki_ankiety_57
+2024-02-10 23:00:58,575 - INFO - Dodano plik z etykiet¹: Label 57.txt
+2024-02-10 23:00:58,575 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\57\57_a.jpg
+2024-02-10 23:00:58,575 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\57\57_b.jpg
+2024-02-10 23:00:58,622 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\5\5_a.jpg
+2024-02-10 23:00:58,631 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\47\47_b.jpg
+2024-02-10 23:00:58,648 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,676 - INFO - Przetwarzanie folderu z ankiet¹: 59
+2024-02-10 23:00:58,676 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\59\wyniki_ankiety_59
+2024-02-10 23:00:58,676 - INFO - Dodano plik z etykiet¹: Label 59.txt
+2024-02-10 23:00:58,677 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\59\59_a.jpg
+2024-02-10 23:00:58,677 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\59\59_b.jpg
+2024-02-10 23:00:58,692 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\49\49_a.jpg
+2024-02-10 23:00:58,719 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\45\45_a.jpg
+2024-02-10 23:00:58,719 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\46\46_b.jpg
+2024-02-10 23:00:58,735 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\5\5_b.jpg
+2024-02-10 23:00:58,742 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\51\51_a.jpg
+2024-02-10 23:00:58,748 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,754 - INFO - Przetwarzanie folderu z ankiet¹: 6
+2024-02-10 23:00:58,786 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\6\wyniki_ankiety_6
+2024-02-10 23:00:58,786 - INFO - Dodano plik z etykiet¹: Label 6.txt
+2024-02-10 23:00:58,786 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\6\6_a.jpg
+2024-02-10 23:00:58,781 - INFO - Przetwarzanie folderu z ankiet¹: 60
+2024-02-10 23:00:58,788 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\60\wyniki_ankiety_60
+2024-02-10 23:00:58,789 - INFO - Dodano plik z etykiet¹: Label 60.txt
+2024-02-10 23:00:58,789 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\60\60_a.jpg
+2024-02-10 23:00:58,789 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\60\60_b.jpg
+2024-02-10 23:00:58,793 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\54\54_b.jpg
+2024-02-10 23:00:58,786 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\6\6_b.jpg
+2024-02-10 23:00:58,772 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,779 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,779 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,800 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\51\51_b.jpg
+2024-02-10 23:00:58,845 - INFO - Przetwarzanie folderu z ankiet¹: 61
+2024-02-10 23:00:58,845 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\61\wyniki_ankiety_61
+2024-02-10 23:00:58,846 - INFO - Dodano plik z etykiet¹: Label 61.txt
+2024-02-10 23:00:58,845 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,846 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\61\61_a.jpg
+2024-02-10 23:00:58,846 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\61\61_b.jpg
+2024-02-10 23:00:58,913 - INFO - Przetwarzanie folderu z ankiet¹: 62
+2024-02-10 23:00:58,915 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\62\wyniki_ankiety_62
+2024-02-10 23:00:58,915 - INFO - Dodano plik z etykiet¹: Label 62.txt
+2024-02-10 23:00:58,916 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\62\62_a.jpg
+2024-02-10 23:00:58,916 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\62\62_b.jpg
+2024-02-10 23:00:58,927 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\50\50_a.jpg
+2024-02-10 23:00:58,943 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:58,943 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\53\53_b.jpg
+2024-02-10 23:00:58,985 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,032 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\55\55_b.jpg
+2024-02-10 23:00:59,066 - INFO - Przetwarzanie folderu z ankiet¹: 63
+2024-02-10 23:00:59,066 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\63\wyniki_ankiety_63
+2024-02-10 23:00:59,066 - INFO - Dodano plik z etykiet¹: Label 63.txt
+2024-02-10 23:00:59,067 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\52\52_b.jpg
+2024-02-10 23:00:59,089 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\63\63_a.jpg
+2024-02-10 23:00:59,095 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\63\63_b.jpg
+2024-02-10 23:00:59,101 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,137 - INFO - Przetwarzanie folderu z ankiet¹: 64
+2024-02-10 23:00:59,137 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\64\wyniki_ankiety_64
+2024-02-10 23:00:59,138 - INFO - Dodano plik z etykiet¹: Label 64.txt
+2024-02-10 23:00:59,138 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\64\64_a.jpg
+2024-02-10 23:00:59,138 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\64\64_b.jpg
+2024-02-10 23:00:59,140 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\55\55_a.jpg
+2024-02-10 23:00:59,148 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,160 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\56\56_b.jpg
+2024-02-10 23:00:59,244 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\57\57_b.jpg
+2024-02-10 23:00:59,299 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\54\54_a.jpg
+2024-02-10 23:00:59,323 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,325 - INFO - Przetwarzanie folderu z ankiet¹: 65
+2024-02-10 23:00:59,341 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\65\wyniki_ankiety_65
+2024-02-10 23:00:59,341 - INFO - Dodano plik z etykiet¹: Label 65.txt
+2024-02-10 23:00:59,341 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\65\65_a.jpg
+2024-02-10 23:00:59,342 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\65\65_b.jpg
+2024-02-10 23:00:59,382 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\57\57_a.jpg
+2024-02-10 23:00:59,400 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,407 - INFO - Przetwarzanie folderu z ankiet¹: 66
+2024-02-10 23:00:59,407 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\66\wyniki_ankiety_66
+2024-02-10 23:00:59,408 - INFO - Dodano plik z etykiet¹: Label 66.txt
+2024-02-10 23:00:59,409 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\66\66_a.jpg
+2024-02-10 23:00:59,409 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\66\66_b.jpg
+2024-02-10 23:00:59,435 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\60\60_a.jpg
+2024-02-10 23:00:59,456 - INFO - Przetwarzanie folderu z ankiet¹: 67
+2024-02-10 23:00:59,456 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\67\wyniki_ankiety_67
+2024-02-10 23:00:59,457 - INFO - Dodano plik z etykiet¹: Label 67.txt
+2024-02-10 23:00:59,458 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\67\67_a.jpg
+2024-02-10 23:00:59,458 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\67\67_b.jpg
+2024-02-10 23:00:59,488 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\58\58_b.jpg
+2024-02-10 23:00:59,490 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\58\58_a.jpg
+2024-02-10 23:00:59,507 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,507 - INFO - Przetwarzanie folderu z ankiet¹: 68
+2024-02-10 23:00:59,513 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\68\wyniki_ankiety_68
+2024-02-10 23:00:59,523 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\56\56_a.jpg
+2024-02-10 23:00:59,539 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\59\59_a.jpg
+2024-02-10 23:00:59,540 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\59\59_b.jpg
+2024-02-10 23:00:59,557 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,558 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,558 - INFO - Dodano plik z etykiet¹: Label 68.txt
+2024-02-10 23:00:59,559 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\68\68_a.jpg
+2024-02-10 23:00:59,559 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\68\68_b.jpg
+2024-02-10 23:00:59,562 - INFO - Przetwarzanie folderu z ankiet¹: 69
+2024-02-10 23:00:59,562 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\69\wyniki_ankiety_69
+2024-02-10 23:00:59,563 - INFO - Dodano plik z etykiet¹: Label 69.txt
+2024-02-10 23:00:59,563 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\69\69_a.jpg
+2024-02-10 23:00:59,563 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\69\69_b.jpg
+2024-02-10 23:00:59,583 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\6\6_a.jpg
+2024-02-10 23:00:59,597 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\6\6_b.jpg
+2024-02-10 23:00:59,605 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,606 - INFO - Przetwarzanie folderu z ankiet¹: 7
+2024-02-10 23:00:59,606 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\7\wyniki_ankiety_7
+2024-02-10 23:00:59,607 - INFO - Dodano plik z etykiet¹: Label 7.txt
+2024-02-10 23:00:59,607 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\7\7_a.jpg
+2024-02-10 23:00:59,607 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\7\7_b.jpg
+2024-02-10 23:00:59,752 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\61\61_a.jpg
+2024-02-10 23:00:59,759 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\60\60_b.jpg
+2024-02-10 23:00:59,766 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\61\61_b.jpg
+2024-02-10 23:00:59,767 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,767 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\62\62_a.jpg
+2024-02-10 23:00:59,838 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,842 - INFO - Przetwarzanie folderu z ankiet¹: 70
+2024-02-10 23:00:59,842 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\70\wyniki_ankiety_70
+2024-02-10 23:00:59,848 - INFO - Dodano plik z etykiet¹: Label 70.txt
+2024-02-10 23:00:59,849 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\70\70_a.jpg
+2024-02-10 23:00:59,849 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\70\70_b.jpg
+2024-02-10 23:00:59,859 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\63\63_a.jpg
+2024-02-10 23:00:59,915 - INFO - Przetwarzanie folderu z ankiet¹: 71
+2024-02-10 23:00:59,915 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\71\wyniki_ankiety_71
+2024-02-10 23:00:59,916 - INFO - Dodano plik z etykiet¹: Label 71.txt
+2024-02-10 23:00:59,916 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\71\71_a.jpg
+2024-02-10 23:00:59,916 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\71\71_b.jpg
+2024-02-10 23:00:59,951 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\64\64_b.jpg
+2024-02-10 23:00:59,966 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\62\62_b.jpg
+2024-02-10 23:00:59,966 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\64\64_a.jpg
+2024-02-10 23:00:59,974 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,974 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\63\63_b.jpg
+2024-02-10 23:00:59,983 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,987 - INFO - Przetwarzanie folderu z ankiet¹: 72
+2024-02-10 23:00:59,996 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:00:59,996 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\72\wyniki_ankiety_72
+2024-02-10 23:00:59,997 - INFO - Dodano plik z etykiet¹: Label 72.txt
+2024-02-10 23:00:59,997 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\72\72_a.jpg
+2024-02-10 23:00:59,998 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\72\72_b.jpg
+2024-02-10 23:01:00,056 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\66\66_a.jpg
+2024-02-10 23:01:00,081 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\67\67_a.jpg
+2024-02-10 23:01:00,108 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\66\66_b.jpg
+2024-02-10 23:01:00,132 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\65\65_b.jpg
+2024-02-10 23:01:00,139 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,139 - INFO - Przetwarzanie folderu z ankiet¹: 73
+2024-02-10 23:01:00,139 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\73\wyniki_ankiety_73
+2024-02-10 23:01:00,149 - INFO - Dodano plik z etykiet¹: Label 73.txt
+2024-02-10 23:01:00,149 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\73\73_a.jpg
+2024-02-10 23:01:00,149 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\73\73_b.jpg
+2024-02-10 23:01:00,173 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\65\65_a.jpg
+2024-02-10 23:01:00,195 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,254 - INFO - Przetwarzanie folderu z ankiet¹: 74
+2024-02-10 23:01:00,254 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\74\wyniki_ankiety_74
+2024-02-10 23:01:00,254 - INFO - Dodano plik z etykiet¹: Label 74.txt
+2024-02-10 23:01:00,255 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\74\74_a.jpg
+2024-02-10 23:01:00,255 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\74\74_b.jpg
+2024-02-10 23:01:00,256 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\67\67_b.jpg
+2024-02-10 23:01:00,268 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,282 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\68\68_a.jpg
+2024-02-10 23:01:00,308 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\7\7_b.jpg
+2024-02-10 23:01:00,323 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\7\7_a.jpg
+2024-02-10 23:01:00,333 - INFO - Przetwarzanie folderu z ankiet¹: 75
+2024-02-10 23:01:00,333 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\75\wyniki_ankiety_75
+2024-02-10 23:01:00,334 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,334 - INFO - Dodano plik z etykiet¹: Label 75.txt
+2024-02-10 23:01:00,335 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\75\75_a.jpg
+2024-02-10 23:01:00,335 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\75\75_b.jpg
+2024-02-10 23:01:00,367 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\69\69_a.jpg
+2024-02-10 23:01:00,382 - INFO - Przetwarzanie folderu z ankiet¹: 76
+2024-02-10 23:01:00,382 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\76\wyniki_ankiety_76
+2024-02-10 23:01:00,382 - INFO - Dodano plik z etykiet¹: Label 76.txt
+2024-02-10 23:01:00,383 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\76\76_a.jpg
+2024-02-10 23:01:00,383 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\76\76_b.jpg
+2024-02-10 23:01:00,406 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\68\68_b.jpg
+2024-02-10 23:01:00,415 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,416 - INFO - Przetwarzanie folderu z ankiet¹: 77
+2024-02-10 23:01:00,416 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\77\wyniki_ankiety_77
+2024-02-10 23:01:00,417 - INFO - Dodano plik z etykiet¹: Label 77.txt
+2024-02-10 23:01:00,418 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\77\77_a.jpg
+2024-02-10 23:01:00,418 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\77\77_b.jpg
+2024-02-10 23:01:00,468 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\71\71_a.jpg
+2024-02-10 23:01:00,489 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\69\69_b.jpg
+2024-02-10 23:01:00,518 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\70\70_b.jpg
+2024-02-10 23:01:00,526 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,539 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\70\70_a.jpg
+2024-02-10 23:01:00,554 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,555 - INFO - Przetwarzanie folderu z ankiet¹: 78
+2024-02-10 23:01:00,555 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\78\wyniki_ankiety_78
+2024-02-10 23:01:00,556 - INFO - Dodano plik z etykiet¹: Label 78.txt
+2024-02-10 23:01:00,557 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\78\78_a.jpg
+2024-02-10 23:01:00,557 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\78\78_b.jpg
+2024-02-10 23:01:00,613 - INFO - Przetwarzanie folderu z ankiet¹: 79
+2024-02-10 23:01:00,614 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\79\wyniki_ankiety_79
+2024-02-10 23:01:00,614 - INFO - Dodano plik z etykiet¹: Label 79.txt
+2024-02-10 23:01:00,615 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\79\79_a.jpg
+2024-02-10 23:01:00,615 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\79\79_b.jpg
+2024-02-10 23:01:00,634 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\71\71_b.jpg
+2024-02-10 23:01:00,657 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,678 - INFO - Przetwarzanie folderu z ankiet¹: 8
+2024-02-10 23:01:00,678 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\8\wyniki_ankiety_8
+2024-02-10 23:01:00,679 - INFO - Dodano plik z etykiet¹: Label 8.txt
+2024-02-10 23:01:00,679 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\8\8_a.jpg
+2024-02-10 23:01:00,680 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\8\8_b.jpg
+2024-02-10 23:01:00,685 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\72\72_b.jpg
+2024-02-10 23:01:00,701 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\72\72_a.jpg
+2024-02-10 23:01:00,709 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,752 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\73\73_a.jpg
+2024-02-10 23:01:00,772 - INFO - Przetwarzanie folderu z ankiet¹: 80
+2024-02-10 23:01:00,772 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\80\wyniki_ankiety_80
+2024-02-10 23:01:00,773 - INFO - Dodano plik z etykiet¹: Label 80.txt
+2024-02-10 23:01:00,773 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\80\80_a.jpg
+2024-02-10 23:01:00,773 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\80\80_b.jpg
+2024-02-10 23:01:00,803 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\73\73_b.jpg
+2024-02-10 23:01:00,804 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\74\74_a.jpg
+2024-02-10 23:01:00,812 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,846 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\76\76_a.jpg
+2024-02-10 23:01:00,855 - INFO - Przetwarzanie folderu z ankiet¹: 81
+2024-02-10 23:01:00,855 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\81\wyniki_ankiety_81
+2024-02-10 23:01:00,856 - INFO - Dodano plik z etykiet¹: Label 81.txt
+2024-02-10 23:01:00,856 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\81\81_a.jpg
+2024-02-10 23:01:00,856 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\81\81_b.jpg
+2024-02-10 23:01:00,899 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\75\75_a.jpg
+2024-02-10 23:01:00,921 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\74\74_b.jpg
+2024-02-10 23:01:00,932 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,933 - INFO - Przetwarzanie folderu z ankiet¹: 82
+2024-02-10 23:01:00,933 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\82\wyniki_ankiety_82
+2024-02-10 23:01:00,934 - INFO - Dodano plik z etykiet¹: Label 82.txt
+2024-02-10 23:01:00,934 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\82\82_a.jpg
+2024-02-10 23:01:00,935 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\82\82_b.jpg
+2024-02-10 23:01:00,977 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\76\76_b.jpg
+2024-02-10 23:01:00,987 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:00,988 - INFO - Przetwarzanie folderu z ankiet¹: 83
+2024-02-10 23:01:00,989 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\83\wyniki_ankiety_83
+2024-02-10 23:01:00,991 - INFO - Dodano plik z etykiet¹: Label 83.txt
+2024-02-10 23:01:00,991 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\83\83_a.jpg
+2024-02-10 23:01:00,991 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\83\83_b.jpg
+2024-02-10 23:01:01,005 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\75\75_b.jpg
+2024-02-10 23:01:01,012 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,027 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\77\77_a.jpg
+2024-02-10 23:01:01,043 - INFO - Przetwarzanie folderu z ankiet¹: 84
+2024-02-10 23:01:01,043 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\84\wyniki_ankiety_84
+2024-02-10 23:01:01,043 - INFO - Dodano plik z etykiet¹: Label 84.txt
+2024-02-10 23:01:01,043 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\84\84_a.jpg
+2024-02-10 23:01:01,043 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\84\84_b.jpg
+2024-02-10 23:01:01,068 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\78\78_a.jpg
+2024-02-10 23:01:01,131 - INFO - Przetwarzanie folderu z ankiet¹: 85
+2024-02-10 23:01:01,131 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\85\wyniki_ankiety_85
+2024-02-10 23:01:01,131 - INFO - Dodano plik z etykiet¹: Label 85.txt
+2024-02-10 23:01:01,131 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\85\85_a.jpg
+2024-02-10 23:01:01,131 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\85\85_b.jpg
+2024-02-10 23:01:01,141 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\77\77_b.jpg
+2024-02-10 23:01:01,148 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,198 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\78\78_b.jpg
+2024-02-10 23:01:01,206 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,206 - INFO - Przetwarzanie folderu z ankiet¹: 86
+2024-02-10 23:01:01,208 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\86\wyniki_ankiety_86
+2024-02-10 23:01:01,208 - INFO - Dodano plik z etykiet¹: Label 86.txt
+2024-02-10 23:01:01,209 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\86\86_a.jpg
+2024-02-10 23:01:01,209 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\86\86_b.jpg
+2024-02-10 23:01:01,221 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\79\79_a.jpg
+2024-02-10 23:01:01,263 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\79\79_b.jpg
+2024-02-10 23:01:01,281 - INFO - Przetwarzanie folderu z ankiet¹: 87
+2024-02-10 23:01:01,281 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\87\wyniki_ankiety_87
+2024-02-10 23:01:01,282 - INFO - Dodano plik z etykiet¹: Label 87.txt
+2024-02-10 23:01:01,282 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\87\87_a.jpg
+2024-02-10 23:01:01,282 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\87\87_b.jpg
+2024-02-10 23:01:01,289 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,311 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\80\80_a.jpg
+2024-02-10 23:01:01,335 - INFO - Przetwarzanie folderu z ankiet¹: 88
+2024-02-10 23:01:01,336 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\88\wyniki_ankiety_88
+2024-02-10 23:01:01,336 - INFO - Dodano plik z etykiet¹: Label 88.txt
+2024-02-10 23:01:01,336 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\88\88_a.jpg
+2024-02-10 23:01:01,337 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\88\88_b.jpg
+2024-02-10 23:01:01,358 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\8\8_b.jpg
+2024-02-10 23:01:01,408 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\8\8_a.jpg
+2024-02-10 23:01:01,415 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,464 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\81\81_a.jpg
+2024-02-10 23:01:01,518 - INFO - Przetwarzanie folderu z ankiet¹: 89
+2024-02-10 23:01:01,518 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\89\wyniki_ankiety_89
+2024-02-10 23:01:01,521 - INFO - Dodano plik z etykiet¹: Label 89.txt
+2024-02-10 23:01:01,521 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\89\89_a.jpg
+2024-02-10 23:01:01,521 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\89\89_b.jpg
+2024-02-10 23:01:01,623 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\81\81_b.jpg
+2024-02-10 23:01:01,631 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,652 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\84\84_a.jpg
+2024-02-10 23:01:01,675 - INFO - Przetwarzanie folderu z ankiet¹: 9
+2024-02-10 23:01:01,676 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\9\wyniki_ankiety_9
+2024-02-10 23:01:01,676 - INFO - Dodano plik z etykiet¹: Label 9.txt
+2024-02-10 23:01:01,677 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\9\9_a.jpg
+2024-02-10 23:01:01,677 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\9\9_b.jpg
+2024-02-10 23:01:01,686 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\82\82_a.jpg
+2024-02-10 23:01:01,699 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\80\80_b.jpg
+2024-02-10 23:01:01,751 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,758 - INFO - Przetwarzanie folderu z ankiet¹: 90
+2024-02-10 23:01:01,758 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\90\wyniki_ankiety_90
+2024-02-10 23:01:01,781 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\86\86_b.jpg
+2024-02-10 23:01:01,824 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\82\82_b.jpg
+2024-02-10 23:01:01,824 - INFO - Dodano plik z etykiet¹: Label 90.txt
+2024-02-10 23:01:01,831 - INFO - Przetwarzanie folderu z ankiet¹: 91
+2024-02-10 23:01:01,844 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\91\wyniki_ankiety_91
+2024-02-10 23:01:01,845 - INFO - Dodano plik z etykiet¹: Label 91.txt
+2024-02-10 23:01:01,845 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\91\91_a.jpg
+2024-02-10 23:01:01,846 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\91\91_b.jpg
+2024-02-10 23:01:01,849 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,844 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\90\90_a.jpg
+2024-02-10 23:01:01,849 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\90\90_b.jpg
+2024-02-10 23:01:01,857 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\83\83_a.jpg
+2024-02-10 23:01:01,875 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\84\84_b.jpg
+2024-02-10 23:01:01,884 - INFO - Przetwarzanie folderu z ankiet¹: 92
+2024-02-10 23:01:01,885 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\92\wyniki_ankiety_92
+2024-02-10 23:01:01,887 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,889 - INFO - Przetwarzanie folderu z ankiet¹: 93
+2024-02-10 23:01:01,889 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\93\wyniki_ankiety_93
+2024-02-10 23:01:01,889 - INFO - Dodano plik z etykiet¹: Label 93.txt
+2024-02-10 23:01:01,890 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\93\93_a.jpg
+2024-02-10 23:01:01,889 - INFO - Dodano plik z etykiet¹: Label 92.txt
+2024-02-10 23:01:01,890 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\93\93_b.jpg
+2024-02-10 23:01:01,901 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\92\92_a.jpg
+2024-02-10 23:01:01,901 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\92\92_b.jpg
+2024-02-10 23:01:01,924 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\85\85_a.jpg
+2024-02-10 23:01:01,943 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\85\85_b.jpg
+2024-02-10 23:01:01,951 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,957 - INFO - Przetwarzanie folderu z ankiet¹: 94
+2024-02-10 23:01:01,957 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\94\wyniki_ankiety_94
+2024-02-10 23:01:01,958 - INFO - Dodano plik z etykiet¹: Label 94.txt
+2024-02-10 23:01:01,958 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\94\94_a.jpg
+2024-02-10 23:01:01,958 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\94\94_b.jpg
+2024-02-10 23:01:01,978 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\83\83_b.jpg
+2024-02-10 23:01:01,996 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:01,997 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\86\86_a.jpg
+2024-02-10 23:01:02,005 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\87\87_b.jpg
+2024-02-10 23:01:02,005 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,057 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\88\88_a.jpg
+2024-02-10 23:01:02,101 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\87\87_a.jpg
+2024-02-10 23:01:02,131 - INFO - Przetwarzanie folderu z ankiet¹: 95
+2024-02-10 23:01:02,131 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\95\wyniki_ankiety_95
+2024-02-10 23:01:02,131 - INFO - Dodano plik z etykiet¹: Label 95.txt
+2024-02-10 23:01:02,132 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\95\95_a.jpg
+2024-02-10 23:01:02,132 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\95\95_b.jpg
+2024-02-10 23:01:02,132 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,134 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\88\88_b.jpg
+2024-02-10 23:01:02,145 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,162 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\89\89_b.jpg
+2024-02-10 23:01:02,169 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\89\89_a.jpg
+2024-02-10 23:01:02,179 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,233 - INFO - Przetwarzanie folderu z ankiet¹: 96
+2024-02-10 23:01:02,233 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\96\wyniki_ankiety_96
+2024-02-10 23:01:02,234 - INFO - Dodano plik z etykiet¹: Label 96.txt
+2024-02-10 23:01:02,234 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\96\96_a.jpg
+2024-02-10 23:01:02,234 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\96\96_b.jpg
+2024-02-10 23:01:02,268 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\9\9_b.jpg
+2024-02-10 23:01:02,286 - INFO - Przetwarzanie folderu z ankiet¹: 97
+2024-02-10 23:01:02,286 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\97\wyniki_ankiety_97
+2024-02-10 23:01:02,286 - INFO - Dodano plik z etykiet¹: Label 97.txt
+2024-02-10 23:01:02,287 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\97\97_a.jpg
+2024-02-10 23:01:02,287 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\97\97_b.jpg
+2024-02-10 23:01:02,298 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\9\9_a.jpg
+2024-02-10 23:01:02,314 - INFO - Przetwarzanie folderu z ankiet¹: 98
+2024-02-10 23:01:02,315 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\98\wyniki_ankiety_98
+2024-02-10 23:01:02,315 - INFO - Dodano plik z etykiet¹: Label 98.txt
+2024-02-10 23:01:02,315 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\98\98_a.jpg
+2024-02-10 23:01:02,315 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\98\98_b.jpg
+2024-02-10 23:01:02,321 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,387 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\90\90_a.jpg
+2024-02-10 23:01:02,403 - INFO - Przetwarzanie folderu z ankiet¹: 99
+2024-02-10 23:01:02,403 - INFO - Katalog wyjœciowy: D:/Magisterka/Wyniki ankiet/Skany\99\wyniki_ankiety_99
+2024-02-10 23:01:02,404 - INFO - Dodano plik z etykiet¹: Label 99.txt
+2024-02-10 23:01:02,404 - INFO - Œcie¿ka obrazu A: D:/Magisterka/Wyniki ankiet/Skany\99\99_a.jpg
+2024-02-10 23:01:02,404 - INFO - Œcie¿ka obrazu B: D:/Magisterka/Wyniki ankiet/Skany\99\99_b.jpg
+2024-02-10 23:01:02,499 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\93\93_a.jpg
+2024-02-10 23:01:02,548 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\90\90_b.jpg
+2024-02-10 23:01:02,555 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,569 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\91\91_a.jpg
+2024-02-10 23:01:02,576 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\91\91_b.jpg
+2024-02-10 23:01:02,623 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\94\94_a.jpg
+2024-02-10 23:01:02,637 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,644 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\93\93_b.jpg
+2024-02-10 23:01:02,652 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,666 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\92\92_a.jpg
+2024-02-10 23:01:02,686 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\95\95_a.jpg
+2024-02-10 23:01:02,745 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\94\94_b.jpg
+2024-02-10 23:01:02,758 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\95\95_b.jpg
+2024-02-10 23:01:02,765 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,766 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,807 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\92\92_b.jpg
+2024-02-10 23:01:02,829 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,898 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\97\97_b.jpg
+2024-02-10 23:01:02,906 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\99\99_b.jpg
+2024-02-10 23:01:02,916 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\96\96_a.jpg
+2024-02-10 23:01:02,948 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\97\97_a.jpg
+2024-02-10 23:01:02,955 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\99\99_a.jpg
+2024-02-10 23:01:02,961 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,962 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,962 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\98\98_b.jpg
+2024-02-10 23:01:02,981 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\98\98_a.jpg
+2024-02-10 23:01:02,988 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,989 - INFO - Found and saved 4 green frames in D:/Magisterka/Wyniki ankiet/Skany\96\96_b.jpg
+2024-02-10 23:01:02,996 - INFO - Zakoñczono przetwarzanie wszystkich ankiet
+2024-02-10 23:01:02,997 - INFO - Zakoñczono przetwarzanie wszystkich ankiet

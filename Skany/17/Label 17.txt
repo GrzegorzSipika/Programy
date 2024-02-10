@@ -1,11 +1,11 @@
 
-KLASA: 1  
+KLASA:  
 
 
 Wiek - 
-P³eæ - 
+Plec - 
 Miejsce zamieszkania - 
-Wykszta³cenie - 
+Wyksztalcenie - 
 Zatrudnienie - 
 
-Iloœæ uzyskanych punktów - 
+Ilosc uzyskanych punktow - 
